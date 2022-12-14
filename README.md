@@ -3,5 +3,5 @@
 
 Pandas is a library that helps data scientist to work with the data in a form of a data frame. Pandas use thousands of methods to create and update different data frames. Here have 3 methods that are can be used to process faster.
 
-![Screenshot](images\Using_condition.png)
+![Final Output](images\Using_condition.png)
 
